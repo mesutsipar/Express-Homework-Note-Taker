@@ -1,2 +1,0 @@
-### Express-Homework-Note-Taker
-
